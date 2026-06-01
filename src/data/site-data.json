@@ -1,0 +1,295 @@
+{
+  "business": {
+    "name": "ibaco - Pammal, Chennai",
+    "category": "Ice cream shop",
+    "address": "\n58, Pammal Main Rd, opposite IndianOil, Bhavani Nagar, Pammal, Chennai, Tamil Nadu 600075",
+    "phone": "\n080 4759 0083",
+    "email": "",
+    "website": "https://www.hap.in/ibaco/",
+    "mapUrl": "https://www.google.com/maps/place/ibaco+-+Pammal,+Chennai/@12.972078,80.1398266,17z/data=!3m1!4b1!4m6!3m5!1s0x3a525fccd17e711d:0x9fc41df8493e878c!8m2!3d12.972078!4d80.1398266!16s%2Fg%2F11r8tlhkg?entry=ttu&g_ep=EgoyMDI2MDUyNy4wIKXMDSoASAFQAw%3D%3D",
+    "latitude": "12.972078",
+    "longitude": "80.1398266",
+    "rating": "",
+    "reviewsCount": "883",
+    "openingHours": "Show open hours for the week",
+    "logo": null,
+    "images": [
+      "/images/gmap_1780308146104_1.jpg",
+      "/images/gmap_1780308146131_2.jpg",
+      "/images/gmap_1780308146160_3.jpg",
+      "/images/gmap_1780308146182_4.jpg",
+      "/images/gmap_1780308146207_5.jpg",
+      "/images/gmap_1780308146250_6.jpg",
+      "/images/gmap_1780308146299_7.jpg",
+      "/images/gmap_1780308146327_8.jpg",
+      "/images/gmap_1780308146361_9.jpg",
+      "/images/gmap_1780308146387_10.jpg",
+      "/images/gmap_1780308146418_11.jpg",
+      "/images/gmap_1780308146452_12.jpg",
+      "/images/gmap_1780308146557_13.jpg",
+      "/images/gmap_1780308146602_14.jpg",
+      "/images/gmap_1780308146627_15.jpg",
+      "/images/gmap_1780308146038_0.jpg"
+    ],
+    "description": "",
+    "socials": {}
+  },
+  "content": {
+    "hero": {
+      "headline": "Scoop Your Way Through Chennai's Coolest Flavors",
+      "subheadline": "Crafting happiness one delicious scoop at a time in Pammal's most loved dessert spot. Fresh, vibrant ice cream that captures the spirit of our neighborhood.",
+      "cta": "Order Ice Cream Now",
+      "ctaSecondary": "View Menu"
+    },
+    "about": {
+      "title": "Sweet Stories from Pammal's Favorite Parlor",
+      "story": "Born right here on 58 Pammal Main Road, ibaco started as a small dream to bring extraordinary ice cream to our community. We've been churning smiles and creating memories for local families since day one, using locally sourced ingredients and recipes that celebrate Chennai's vibrant food culture.",
+      "highlights": [
+        {
+          "icon": "🍨",
+          "title": "Locally Crafted",
+          "description": "Every scoop is made fresh in our Pammal kitchen"
+        },
+        {
+          "icon": "🌈",
+          "title": "Flavor Innovation",
+          "description": "Unique combinations that surprise and delight"
+        },
+        {
+          "icon": "❤️",
+          "title": "Community First",
+          "description": "Supporting local farmers and ingredients"
+        },
+        {
+          "icon": "🌡️",
+          "title": "Always Fresh",
+          "description": "Small-batch production ensuring premium quality"
+        }
+      ]
+    },
+    "services": {
+      "title": "Scoops of Joy, Served Just For You",
+      "items": [
+        {
+          "icon": "🍦",
+          "title": "Classic Flavors",
+          "description": "Timeless favorites that remind you of childhood summers in Chennai"
+        },
+        {
+          "icon": "🍧",
+          "title": "Fusion Creations",
+          "description": "Innovative flavor combinations inspired by local Tamil cuisine"
+        },
+        {
+          "icon": "🍰",
+          "title": "Sundae Specials",
+          "description": "Elaborate dessert experiences topped with our signature sauces"
+        },
+        {
+          "icon": "🎂",
+          "title": "Custom Cakes",
+          "description": "Personalized ice cream cakes for every celebration"
+        }
+      ]
+    },
+    "testimonials": {
+      "title": "Sweet Words from Our Neighborhood",
+      "items": [
+        {
+          "name": "Priya Rajesh",
+          "role": "Local Resident",
+          "text": "The most amazing ice cream in Pammal! Always fresh and incredibly delicious.",
+          "rating": 5
+        },
+        {
+          "name": "Rahul Kumar",
+          "role": "Food Blogger",
+          "text": "ibaco's fusion flavors are a game-changer. Their local ingredients make all the difference.",
+          "rating": 5
+        },
+        {
+          "name": "Meera Shankar",
+          "role": "Family Mom",
+          "text": "My kids absolutely love their weekend ice cream treats. Always clean, friendly, and delicious!",
+          "rating": 5
+        }
+      ]
+    },
+    "faq": {
+      "title": "Scoops of Wisdom",
+      "items": [
+        {
+          "question": "Do you offer dairy-free options?",
+          "answer": "Yes! We have multiple non-dairy and vegan flavor selections."
+        },
+        {
+          "question": "Can I order for large groups?",
+          "answer": "Absolutely! We specialize in party orders and catering for events."
+        },
+        {
+          "question": "Are your ingredients locally sourced?",
+          "answer": "We pride ourselves on using fresh, local Tamil Nadu ingredients."
+        },
+        {
+          "question": "What are your most popular flavors?",
+          "answer": "Our Filter Coffee and Mango Mastani are absolute neighborhood favorites!"
+        },
+        {
+          "question": "Do you offer delivery?",
+          "answer": "Yes, we deliver within Pammal and surrounding Chennai neighborhoods."
+        },
+        {
+          "question": "Are there options for kids?",
+          "answer": "We have a special kids menu with smaller portions and fun flavors."
+        }
+      ]
+    },
+    "contact": {
+      "title": "Let's Get Deliciously Connected",
+      "subtitle": "Drop by or ring us up for your next sweet adventure!"
+    },
+    "cta": {
+      "title": "Your Ice Cream Happiness Starts Here",
+      "subtitle": "Fresh scoops are waiting just for you!",
+      "button": "Order Now"
+    },
+    "meta": {
+      "title": "ibaco Pammal - Chennai's Coolest Ice Cream Destination",
+      "description": "Discover unique, locally crafted ice cream flavors at ibaco in Pammal. Fresh, innovative scoops that celebrate Chennai's sweet spirit."
+    }
+  },
+  "pages": [
+    {
+      "slug": "",
+      "title": "Home",
+      "type": "home",
+      "sections": [
+        {
+          "id": "hero",
+          "type": "hero",
+          "variant": "split"
+        },
+        {
+          "id": "home-cta",
+          "type": "cta",
+          "variant": "banner"
+        }
+      ]
+    },
+    {
+      "slug": "about",
+      "title": "Sweet Stories from Pammal's Favorite Parlor",
+      "type": "about",
+      "sections": [
+        {
+          "id": "about-full",
+          "type": "narrative",
+          "variant": "split-image"
+        },
+        {
+          "id": "highlights",
+          "type": "grid",
+          "columns": 2,
+          "variant": "compact"
+        }
+      ]
+    },
+    {
+      "slug": "services",
+      "title": "Scoops of Joy, Served Just For You",
+      "type": "services",
+      "sections": [
+        {
+          "id": "services-full",
+          "type": "grid",
+          "columns": 3,
+          "variant": "detailed"
+        }
+      ]
+    },
+    {
+      "slug": "gallery",
+      "title": "Gallery",
+      "type": "gallery",
+      "sections": [
+        {
+          "id": "gallery-full",
+          "type": "gallery",
+          "variant": "masonry"
+        }
+      ]
+    },
+    {
+      "slug": "contact",
+      "title": "Let's Get Deliciously Connected",
+      "type": "contact",
+      "sections": [
+        {
+          "id": "contact-full",
+          "type": "contact",
+          "variant": "split-map"
+        }
+      ]
+    }
+  ],
+  "navigation": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Sweet Stories from Pammal's Favorite Parlor",
+      "href": "/about"
+    },
+    {
+      "label": "Scoops of Joy, Served Just For You",
+      "href": "/services"
+    },
+    {
+      "label": "Gallery",
+      "href": "/gallery"
+    },
+    {
+      "label": "Let's Get Deliciously Connected",
+      "href": "/contact"
+    }
+  ],
+  "design": {
+    "colors": {
+      "primary": "#D35B3E",
+      "primaryHover": "#B4472F",
+      "secondary": "#F2B544",
+      "accent": "#8B4513",
+      "background": "#FAF7F2",
+      "surface": "#FFFFFF",
+      "text": "#3A3A3A",
+      "textMuted": "#6E6E6E",
+      "border": "#E0E0E0"
+    },
+    "typography": {
+      "headingFont": "Playfair Display",
+      "bodyFont": "DM Sans",
+      "headingWeight": 700,
+      "bodyWeight": 400,
+      "baseSize": 16,
+      "scale": 1.25,
+      "lineHeight": 1.6
+    },
+    "spacing": {
+      "sectionPadding": "80px",
+      "containerWidth": "1200px",
+      "cardPadding": "24px",
+      "gap": "24px"
+    },
+    "radius": {
+      "button": "8px",
+      "card": "12px",
+      "image": "8px"
+    },
+    "shadows": {
+      "card": "0 4px 6px rgba(0, 0, 0, 0.1)",
+      "cardHover": "0 8px 12px rgba(0, 0, 0, 0.15)"
+    },
+    "darkMode": false
+  }
+}
